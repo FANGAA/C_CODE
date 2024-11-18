@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gitcode\\C_CODE\\zifu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83AA8-D72C-45EE-BA4A-1B1EB7790492}|zifu\\zifu.vcxproj|D:\\gitcode\\C_CODE\\zifu\\zifu\\11_13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3F83AA8-D72C-45EE-BA4A-1B1EB7790492}|zifu\\zifu.vcxproj|solutionrelative:zifu\\11_13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "11_13.c",
+              "DocumentMoniker": "D:\\gitcode\\C_CODE\\zifu\\zifu\\11_13.c",
+              "RelativeDocumentMoniker": "zifu\\11_13.c",
+              "ToolTip": "D:\\gitcode\\C_CODE\\zifu\\zifu\\11_13.c",
+              "RelativeToolTip": "zifu\\11_13.c",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAIwPMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:28:38.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
